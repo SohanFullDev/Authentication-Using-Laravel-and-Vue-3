@@ -5,13 +5,7 @@ import Nav from './components/Nav.vue'
 
 <template>
     <Nav/>
-  <div class="m-3">
-
-    <h3>Laravel & Vue Js Authentication</h3>
-
-  </div>
-
-
+<RouterView></RouterView>
 </template>
 
 <style scoped>
